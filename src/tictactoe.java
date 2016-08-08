@@ -1,17 +1,12 @@
 import javax.swing.JOptionPane;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 
 /**
  *
- * @author tomeks
+ * @author manjaro
  */
 public class tictactoe extends javax.swing.JFrame {
-    char p1,p2,p3,p4,p5,p6,p7,p8,p9, kto;
+ char p1,p2,p3,p4,p5,p6,p7,p8,p9, kto;
 
     /**
      * Creates new form tictactoe
